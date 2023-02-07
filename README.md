@@ -19,6 +19,9 @@ Shortly after I started replaying these requests in Charles with the next lesson
 
 Do you want to pass all the quizzes in minutes rather than hours? Forget about answers, just use feeling!
 
+https://user-images.githubusercontent.com/53124399/217393540-61662e9b-ea0c-4e76-a07a-78ea0f35e53f.mp4
+
+
 ### How does it work?
 This program opens a Chrome window and interacts with it through the [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/), it then visits the login page and waits for you to login.
 
