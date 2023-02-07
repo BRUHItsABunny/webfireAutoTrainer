@@ -10,10 +10,10 @@ I heard someone spent more than 8 hours completing these, and I figured that bun
 So I fired up Charles proxy and tried out one lesson/class of one course and noticed the site never actually validates your answers on the server side - aka it was `client authorative`.
 
 In order of execution, the only requests that seemed to matter where:
-* [GETPARAMS](https://github.com/BRUHItsABunny/ugodict/blob/main/_media/WFAT_class_getparams.png)
-* [PUTPARAMS:I](https://github.com/BRUHItsABunny/ugodict/blob/main/_media/WFAT_class_init.png)
-* [PUTPARAMS:P](https://github.com/BRUHItsABunny/ugodict/blob/main/_media/WFAT_class_progress.png)
-* [EXITUA](https://github.com/BRUHItsABunny/ugodict/blob/main/_media/WFAT_class_exit.png)
+* [GETPARAMS](https://github.com/BRUHItsABunny/webfireAutoTrainer/blob/main/_media/WFAT_class_getparams.png)
+* [PUTPARAMS:I](https://github.com/BRUHItsABunny/webfireAutoTrainer/blob/main/_media/WFAT_class_init.png)
+* [PUTPARAMS:P](https://github.com/BRUHItsABunny/webfireAutoTrainer/blob/main/_media/WFAT_class_progress.png)
+* [EXITUA](https://github.com/BRUHItsABunny/webfireAutoTrainer/blob/main/_media/WFAT_class_exit.png)
 
 Shortly after I started replaying these requests in Charles with the next lesson/class and saw how effective it was.
 
